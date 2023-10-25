@@ -1,0 +1,1 @@
+Put his folder in the Resources Folder to work: Assets/Resources/AudioManager
